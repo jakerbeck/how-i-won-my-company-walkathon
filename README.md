@@ -19,7 +19,7 @@ Let me present the real winner of the 2019 Walkathon:
 
 ![RPI](rpi.gif "RPI")
 
-![Top Walkers](tw.gif "Top Walkers")
+![tw](tw.gif "tw")
 
 ## The Hardware
 ### Raspberry Pi Model B Rev 2
