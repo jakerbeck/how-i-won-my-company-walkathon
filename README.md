@@ -19,6 +19,8 @@ Let me present the real winner of the 2019 Walkathon:
 
 ![RPI](rpi.gif "RPI")
 
+![Top Walkers](tw.gif "Top Walkers")
+
 ## The Hardware
 ### Raspberry Pi Model B Rev 2
 Raspberry Pi single board computers have a useful GPIO (General Purpose Input Output) that act as a gateway between the physical and virtual world.
